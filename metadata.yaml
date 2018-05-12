@@ -1,0 +1,32 @@
+_repo: The-Five-Arrows_35904
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Chase, Allan
+    birthdate: 1913
+    deathdate: 1993
+    gutenberg_agent_id: '37971'
+    url: http://www.gutenberg.org/2009/agents/37971
+description: The story involves the main character, Matthew Hall, who has made it
+  his personal mission to fight against the Axis powers of WWII. Hall's motivation
+  is a result of his experiences during the Spanish Civil War and the ensuing time
+  he was held prisoner. The settings for the story range between 3 Spanish speaking
+  countries, Guatemala, Cuba and Puerto Rico.
+gutenberg_issued: '2011-04-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35904'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Adventure stories'
+- !lcsh 'Latin America -- Politics and government -- Fiction'
+- !lcsh 'Journalists -- Fiction'
+title: The Five Arrows
+url: http://www.gutenberg.org/ebooks/35904
